@@ -1,2 +1,4 @@
-# imgs
-A collection of photos for my readme's
+## Misc Files
+
+-------------------------------------------------------------------------------
+A place to store img files for my readme's and various other fies.
